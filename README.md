@@ -1,7 +1,5 @@
-# ANRP
-Automatic Number Plate Recognition (ANPR) System
 
-# Automatic Number Plate Recognition (ANPR) System
+# Automatic Number Plate Recognition System
 
 This project is an Automatic Number Plate Recognition (ANPR) system built using Python, OpenCV, EasyOCR, and Django. It allows for the detection, extraction, and recognition of vehicle number plates from images.
 
@@ -28,7 +26,7 @@ To run the ANPR system, you need to have the following installed:
 1. Clone the repository to your local machine or download the source code as a ZIP file.
 
     ```bash
-    git clone https://github.com/latif-muhammad/ANRP.git
+    git clone https://github.com/j-yasir/Automatic-Number-Plate-Recognition-System.git
     ```
     
 2. Navigate to the project directory.
@@ -66,9 +64,5 @@ To run the ANPR system, you need to have the following installed:
 
 This ANPR system was built using Python, OpenCV, EasyOCR, and Django, incorporating techniques from computer vision and optical character recognition. It was developed as a demonstration project for AI Course, to showcase the capabilities of ANPR technology.
 
-## Author
-
-- Muhammad Latif
-- GitHub: [GitHub Profile](https://github.com/latif-muhammad)
 
 
